@@ -1,0 +1,11 @@
+{
+    "lightLogo":"../../assets/images/gypsum-light.png",
+    "darkLogo":"../../assets/images/gypsum.png",
+    "headerMenus":{
+        "Home":"home",
+        "About":"about",
+        "Portfolio":"portfolio",
+        "Blog":"blog",
+        "Contact":"contact"
+    }
+}

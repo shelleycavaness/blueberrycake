@@ -1,0 +1,22 @@
+{
+    "headerData":{
+        "logoPath":"../../assets/images/gypsum.png",
+        "buttonText":"Buy Now",
+        "buyNowUrl":"https://www.reactrepo.com/template/35-blueberrycakejs-personal-portfolio-template"
+    },
+    "Heading":"Personal Portfolio <span>GatsbyJs Theme</span>",
+    "themes":[
+        {
+            "id":1,
+            "heading":"Dark Theme",
+            "screenshotImgPath":"../../assets/images/home-dark.jpg",
+            "linkUrl":"/home"
+        },
+        {
+            "id":2,
+            "heading":"Light Theme",
+            "screenshotImgPath":"../../assets/images/home-light.jpg",
+            "linkUrl":"/home-light"
+        }
+    ]
+}

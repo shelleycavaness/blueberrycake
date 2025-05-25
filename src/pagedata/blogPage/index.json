@@ -1,0 +1,58 @@
+{
+    "blogListData":[
+        {
+            "id":1,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-1.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        },
+        {
+            "id":2,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-2.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        },
+        {
+            "id":3,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-3.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        },
+        {
+            "id":4,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-4.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        },
+        {
+            "id":5,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-5.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        },
+        {
+            "id":6,
+            "blogImage":"../../assets/images/bloglist-images/blog-image-6.jpg",
+            "title":"An Impactful Site is More Than Just Good & Great Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+            "postedBy":"Admin",
+            "postedOn":"April 16 - 2021"
+            
+        }
+    ]
+}

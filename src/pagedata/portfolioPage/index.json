@@ -1,0 +1,113 @@
+{
+    "all":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-6.jpg",
+            "workName":"App Development",
+            "date":"October 2017"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-5.jpg",
+            "workName":"Mobile Application",
+            "date":"October 2017 - January 2018"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-4.jpg",
+            "workName":"Illustration Design",
+            "date":"Fall 2019"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-3.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-2.jpg",
+            "workName":"Graphics Design",
+            "date":"Apr 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-1.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        }
+    ],
+    "graphics":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-3.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-2.jpg",
+            "workName":"Graphics Design",
+            "date":"Apr 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-1.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-6.jpg",
+            "workName":"App Development",
+            "date":"October 2017"
+        }
+    ],
+    "illustration":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-5.jpg",
+            "workName":"Mobile Application",
+            "date":"October 2017 - January 2018"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-3.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-4.jpg",
+            "workName":"Illustration Design",
+            "date":"Fall 2019"
+        }
+    ],
+    "wireframes":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-2.jpg",
+            "workName":"Graphics Design",
+            "date":"Apr 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-3.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-1.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-4.jpg",
+            "workName":"Illustration Design",
+            "date":"Fall 2019"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-5.jpg",
+            "workName":"Mobile Application",
+            "date":"October 2017 - January 2018"
+        }
+
+    ],
+    "video":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-1.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-2.jpg",
+            "workName":"Graphics Design",
+            "date":"Apr 2020"
+        }
+    ]
+}

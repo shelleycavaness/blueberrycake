@@ -1,0 +1,18 @@
+{
+    "lightLogoImg":"../../assets/images/gypsum-light.png",
+    "darkLogoImg":"../../assets/images/gypsum.png",
+    "socialMediaUrl":{
+        "faceBook":"#",
+        "twitter":"#",
+        "linkedIn":"#",
+        "youtube":"#",
+        "instagram":"#",
+        "pinterest":"#"
+    },
+    "leftMenu":{
+        "url":"#",
+        "text":"Terms & Conditions"
+    },
+    "middleText":"Copyright © 2024 Reactrepo.com All Rights Reserved.",
+    "rightText":"Back to top"
+}

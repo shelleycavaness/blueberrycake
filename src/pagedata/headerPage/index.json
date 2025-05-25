@@ -1,0 +1,30 @@
+{
+    "logoImg":"/images/gypsum.png",
+    "menuList":[
+        {
+            "id":1,
+            "menuItem":"Home",
+            "url":"/home/"
+        },
+        {
+            "id":2,
+            "menuItem":"About",
+            "url":"/about/"
+        },
+        {
+            "id":3,
+            "menuItem":"Potrfolio",
+            "url":"/portfolio/"
+        },
+        {
+            "id":4,
+            "menuItem":"Blog",
+            "url":"/blog/"
+        },
+        {
+            "id":5,
+            "menuItem":"Contact",
+            "url":"/contact/"
+        }
+    ]
+}

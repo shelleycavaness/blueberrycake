@@ -1,0 +1,86 @@
+{
+    "bannerSection":{
+        "bannerImage":"../../assets/images/home-images/banner-image-min.jpg",
+        "subHeading":"Hello There. Welcome",
+        "mainHeading":"I'm Mathew George",
+        "designation":"Web Developer",
+        "description":"I am a full-stack developer based in America, dedicated to creating clean and user-friendly experiences. My passion lies in developing outstanding software that enhances the lives of those in my community",
+        "buttonText":"More About Me",
+        "buttonUrl":"/about"
+    },
+    "servicesSection":[
+        {
+            "icon":"/images/home-images/development.svg",
+            "title":"UI/UX Design",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever 1500s, when an"
+        },
+        {
+            "icon":"/images/home-images/illustration.svg",
+            "title":"Illustration",
+            "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a"
+        },
+        {
+            "icon":"/images/home-images/uiux.svg",
+            "title":"Development",
+            "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+        }
+    ],
+    "portfolioSection":[
+        {
+            "workImg":"../../assets/images/home-images/projects-image-1.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-2.jpg",
+            "workName":"Graphics Design",
+            "date":"Apr 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-3.jpg",
+            "workName":"Website Development",
+            "date":"January 2020"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-4.jpg",
+            "workName":"Illustration Design",
+            "date":"Fall 2019"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-5.jpg",
+            "workName":"Mobile Application",
+            "date":"October 2017 - January 2018"
+        },
+        {
+            "workImg":"../../assets/images/home-images/projects-image-6.jpg",
+            "workName":"App Development",
+            "date":"October 2017"
+        }
+    ],
+    "testimonialSection":[
+        {
+            "userImg":"../../assets/images/home-images/testimonials-1.jpg",
+            "name":"Adom Smith",
+            "company":"CEO - Electrolux",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+        },
+        {
+            "userImg":"../../assets/images/home-images/testimonials-2.jpg",
+            "name":"Adom Smith",
+            "company":"CEO - Electrolux",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+        },
+        {
+            "userImg":"../../assets/images/home-images/testimonials-3.jpg",
+            "name":"Adom Smith",
+            "company":"CEO - Electrolux",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+        },
+        {
+            "userImg":"../../assets/images/home-images/testimonials-4.jpg",
+            "name":"Adom Smith",
+            "company":"CEO - Electrolux",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+        }
+    ]
+}

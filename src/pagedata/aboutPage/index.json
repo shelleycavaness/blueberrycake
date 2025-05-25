@@ -1,0 +1,79 @@
+{
+    "bannerSection":{
+        "bannerImage":"../../assets/images/home-images/banner-image-min.jpg",
+        "title":"Mathew George",
+        "designaton":"Web designer & developer",
+        "description":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. WikipediaIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. Wikipedia",
+        "buttonText":"Download CV",
+        "buttonUrl":"#"
+    },
+    "personalInfo":{
+        "heading":"Personal Info",
+        "tableData":{
+            "First Name":"Mathew",
+            "Last Name":"George",
+            "Age":"35 Years",
+            "Nationality":"American",
+            "Freelance":"Available",
+            "Address":"Los Angels, USA",
+            "Phone":"+(558) 99869 99869",
+            "Email":"info@reactrepo.com",
+            "Skype":"steve.george92",
+            "Language":"French, English"
+        },
+        "statData":{
+            "50 +":"Projects Completed",
+            "15 +":"Years of Experience",
+            "240 +":"Happy Customers",
+            "80 +":"Awards won"
+        },
+        "skillsData":{
+            "Figma":75,
+            "Photoshop":94,
+            "Illustrator":88,
+            "Adobe XD":70,
+            "ReactJs":90,
+            "HTML":95,
+            "CSS":75,
+            "Javascript":70
+        },
+        "timeLine":[
+            {
+                "date":"2020 - Present",
+                "role":"WordPress Developer",
+                "company":"Envato Market",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            },
+            {
+                "date":"2017 - 2020",
+                "role":"Web Designer",
+                "company":"Envato Market",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            },
+            {
+                "date":"2013 - 2017",
+                "role":"Graphics Designer",
+                "company":"Envato Market",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            },
+            {
+                "date":"2009 - 2013",
+                "role":"Doctorate",
+                "company":"Buruol University",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            },
+            {
+                "date":"2005 - 2009",
+                "role":"Masters Degree",
+                "company":"Dororu University",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            },
+            {
+                "date":"2005 - 2009",
+                "role":"Bachelor Degree",
+                "company":"Kendira University",
+                "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+            }
+        ]
+    }
+}
