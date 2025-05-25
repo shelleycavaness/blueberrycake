@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
         title: `blueberrycake`,
-        siteUrl: `https://www.reactrepo.com`,
+        siteUrl: `https://www.blueberrycake.com`,
     },
     plugins: [
         {

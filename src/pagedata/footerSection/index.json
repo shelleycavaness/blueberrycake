@@ -1,6 +1,7 @@
 {
-    "lightLogoImg":"../../assets/images/gypsum-light.png",
-    "darkLogoImg":"../../assets/images/gypsum.png",
+ 
+    "lightLogoImg":"../../assets/images/buleberrycake-light.png",
+    "darkLogoImg":"../../assets/images/buleberrycake.png",
     "socialMediaUrl":{
         "faceBook":"#",
         "twitter":"#",
@@ -13,6 +14,6 @@
         "url":"#",
         "text":"Terms & Conditions"
     },
-    "middleText":"Copyright © 2024 Reactrepo.com All Rights Reserved.",
+    "middleText":"Copyright © 2025 blueberrycake.com All Rights Reserved.",
     "rightText":"Back to top"
 }

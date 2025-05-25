@@ -34,7 +34,7 @@ const AboutSection = ()=>{
                     <Col md={12}>
                         <SectionHeading
                             title={"About"}
-                            titleBg={"Mathew"}
+                            titleBg={"bluberry"}
                             layoutStyles={{
                                 marginTop: 40
                             }}

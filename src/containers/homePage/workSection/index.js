@@ -80,9 +80,9 @@ const WorkSection = () => {
                         name: "Youtube Project",
                         project: "video",
                         language: "Adobe After Effects",
-                        client: "Reactrepo",
-                        previewUrl: "www.reactrepo.com",
-                        youtubeUrl: "https://www.youtube.com/embed/NDszKrPUEYY",
+                        client: "blueberrycake",
+                        previewUrl: "www.blueberrycake.com",
+                        youtubeUrl: "https://youtu.be/Ky_uI0KlXXA?si=LTZzCfMw6zRGAEjd",
                         imageUrl: "/images/home-images/projects-image-6.jpg",
                         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
                     }
